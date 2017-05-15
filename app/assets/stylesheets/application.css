@@ -1,3 +1,17 @@
+body {
+	color:#B2BFCB;
+	background:#002952;
+	font-weight:normal
+	margin:0;padding:0;}
+
+h1,
+h2 {
+    font-size:30px;
+    font-weight: bold;
+    font-family: Futura, Helvetica, Arial, sans-serif;
+    text-align: left;
+    text-align: center;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
