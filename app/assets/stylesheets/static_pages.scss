@@ -1,3 +1,38 @@
-// Place all the styles related to the static_pages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+h1 {
+    font-size:3em;
+    font-weight: bold;
+    font-family: Futura, Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #1180b6;
+}
+
+h2 {
+	text-align: center;
+}
+
+.navbar ul li a {
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+body {
+	color:#B2BFCB;
+	background:#002952;
+	font-weight:normal;
+	padding-top: 50px;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+p {
+	text-align: center;
+}
+
+.contact-background {
+  background-image: url ("images/wheel.jpg");
+	background-repeat: no-repeat;
+	background-position-x: 50%;
+	background-attachment: fixed;
+	background-size: cover;
+}
