@@ -1,0 +1,62 @@
+/* line 1, /Users/FredEvans/Desktop/sample_app/app/assets/stylesheets/static_pages.scss */
+h1 {
+  font-size: 3em;
+  font-weight: bold;
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: #1180b6;
+}
+
+/* line 9, /Users/FredEvans/Desktop/sample_app/app/assets/stylesheets/static_pages.scss */
+h2 {
+  text-align: center;
+}
+
+/* line 13, /Users/FredEvans/Desktop/sample_app/app/assets/stylesheets/static_pages.scss */
+.navbar ul li a {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+/* line 19, /Users/FredEvans/Desktop/sample_app/app/assets/stylesheets/static_pages.scss */
+body {
+  color: #B2BFCB;
+  background: #002952;
+  font-weight: normal;
+  padding-top: 50px;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+/* line 28, /Users/FredEvans/Desktop/sample_app/app/assets/stylesheets/static_pages.scss */
+p {
+  text-align: center;
+}
+
+/* line 32, /Users/FredEvans/Desktop/sample_app/app/assets/stylesheets/static_pages.scss */
+.contact-background {
+  background-image: url "images/wheel.jpg";
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
